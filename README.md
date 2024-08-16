@@ -32,7 +32,7 @@
 <h1>Account Deactivation</h1>
 
 <h3>Step 1: </h3>
-<p>First we will be  </p>
+<p>First we will be locating the user account in the correct OU; then we will right click and disable account </p>
 
 - 
 
@@ -40,20 +40,11 @@
 
 
 <h3>Step 2: </h3>
-<p>Second we will be  </p>
+<p>Second we will then remove all security groups that user was a member of </p>
 
 - 
 
 <br>
-
-
-<h3>Step 3: </h3>
-<p>Third we will be  </p>
-
-- 
-
-<br>
-
 
 
 <h2> Final Thoughts </h2>
