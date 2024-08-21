@@ -34,15 +34,22 @@
 <h3>Step 1: </h3>
 <p>First we will be locating the user account in the correct OU; then we will right click and disable account </p>
 
-- 
 
+![1](https://github.com/user-attachments/assets/ca1e9a67-e352-4782-9887-acc831bd295a)
+
+
+____
 <br>
 
 
 <h3>Step 2: </h3>
 <p>Second we will then remove all security groups that user was a member of </p>
 
-- 
+
+![2](https://github.com/user-attachments/assets/6fddcbb9-d0c9-4836-a1cd-d18924c27ab7)
+
+
+ ____
 
 <br>
 
